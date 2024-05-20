@@ -105,19 +105,15 @@ This project revolutionizes the management and interaction with photos taken at 
     332   55
      14    0
 ```
+
 ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/3f461a59-9d68-4f4e-ab7b-7d5712a3002c)
 
 * **Recall Curve**: Shows the model's capability to detect objects.
-![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/1a32fff9-f933-499c-8238-974e10300fc9)
-
 * **Precision Curve**: Reflects the accuracy of the detected objects.
-![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/9ad9c0cc-c038-4869-a869-19480186072e)
-
 * **F1 Score Curve**: Balances precision and recall.
-![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/04a02812-6278-4e31-99d0-0a791c023b2f)
 
-
-
+![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/1a32fff9-f933-499c-8238-974e10300fc9)  ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/9ad9c0cc-c038-4869-a869-19480186072e)
+   ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/04a02812-6278-4e31-99d0-0a791c023b2f)
 ## Future Work
 
 * **Hyperparameter Tuning**: Enhance model performance through further tuning.
