@@ -112,23 +112,13 @@ This project revolutionizes the management and interaction with photos taken at 
 * **Precision Curve**: Reflects the accuracy of the detected objects.
 * **F1 Score Curve**: Balances precision and recall.
 
-![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/1a32fff9-f933-499c-8238-974e10300fc9)  ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/9ad9c0cc-c038-4869-a869-19480186072e)
-   ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/04a02812-6278-4e31-99d0-0a791c023b2f)
+![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/1a32fff9-f933-499c-8238-974e10300fc9)  ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/9ad9c0cc-c038-4869-a869-19480186072e)  ![image](https://github.com/YousraBarhmi/Photo-Management-System-Marathon/assets/138295122/04a02812-6278-4e31-99d0-0a791c023b2f)
+   
 ## Future Work
 
 * **Hyperparameter Tuning**: Enhance model performance through further tuning.
 * **Cross-Validation**: Implement to ensure robust generalization.
 * **Error Analysis**: Identify and improve performance on challenging classes.
-
-## Contributing
-
-Contributions are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
 
 ## License
 
